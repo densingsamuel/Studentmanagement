@@ -1,8 +1,8 @@
 public class Student {
-    int id;
-    String name;
-    String department;
-    int year;
+    private int id;
+    private String name;
+    private String department;
+    private int year;
     
 
 public Student(int id, String name, String department, int year) {
